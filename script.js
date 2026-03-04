@@ -16,3 +16,6 @@ function describeRoom(room){
             return "Probably not the loveliest place to be right now..."
     }
 }
+
+const exampleNode = {image: '/images/hallway.jpg', txt:"The floors of this liminal space creek with every step.",choices:["Walk further down the hall","Kick down a door for funsies","Stay where you are"]
+}
