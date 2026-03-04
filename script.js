@@ -30,7 +30,13 @@ const storyNodes=[{
         choices:["Wear the trenchcoat","Burn the trenchcoat","Lay in the bed", "Make the bed"]
     },
     {
-        image:"."
-
+        image:"images/sink.jpg",
+        txt: "The sink is dirty, probably filled with lead",
+        choices:["Run the water and listen to it hum", "Drink the water","Kill the roach thats crawling around on the faucet."]
+    },
+    {
+        image:"images/stairwell.jpg",
+        txt:"I wonder what's upstairs",
+        choices:[]
     }
 ]
