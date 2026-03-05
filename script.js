@@ -37,6 +37,10 @@ const storyNodes=[{
     {
         image:"images/stairwell.jpg",
         txt:"I wonder what's upstairs",
-        choices:[]
+        choices:["Go upstairs","Stay downstairs"]
     }
 ]
+
+function displayNode(num) {
+    document.getElementById("image").src=storyNodes[num[0]]
+}
