@@ -4,7 +4,8 @@
     margin-left: auto;
     width:600px;
     height:500px;
-    font-family: 'Courier New', Courier, monospace;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     line-height: normal;
     max-width: 200;
+    color:rgb(236, 241, 245)
 }
