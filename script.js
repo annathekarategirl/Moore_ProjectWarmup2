@@ -42,5 +42,6 @@ const storyNodes=[{
 ]
 
 function displayNode(num) {
-    document.getElementById("image").src=storyNodes[num[0]]
+    document.getElementById("image").src=storyNodes[num]["image"]
 }
+displayNode(0)
