@@ -45,4 +45,3 @@ function displayNode(num) {
     document.getElementById("image").src=storyNodes[num]["image"]
     document.getElementById("para").textContent=storyNodes[num]["txt"]
 }
-displayNode(0)
