@@ -1,6 +1,7 @@
 .img{
-    margin-left: auto;
+    display: block;
     margin-right: auto;
-    margin-top: auto;
-    margin-bottom: auto;
+    margin-left: auto;
+    width:700px;
+    height:400px;
 }
