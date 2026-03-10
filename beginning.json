@@ -1,0 +1,18 @@
+{
+    "dialog" : [
+        {
+            "display_image" : "img1.jpg",
+            "Special Week" : "Today’s my firchoicst day at Wake Early College Of Information and Biotechnologies"
+        },
+        {
+            
+        },
+        {
+
+        }
+    ],
+    "choice_scenes" : {
+        "ofcourse.json" : "Of course!",
+        "goaway.json" : "Ew. Go away."
+    }
+}
